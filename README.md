@@ -1,6 +1,7 @@
 # DeepShell.nvim
 
-The DeepShell.nvim plugin serves as the unseen bridge between the arcane depths of Neovim and the profound intelligence of [DeepShell](https://github.com/Abyss-c0re/deepshell).
+A Neovim plugin that integrates with [DeepShell](https://github.com/Abyss-c0re/deepshell), allowing users to process and generate code snippets via DeepShell directly from Neovim.
+
 ## Installation
 
 ### Prerequisites
@@ -42,7 +43,7 @@ Processes a selected code snippet along with a user request using DeepShell in `
   :'<,'>DeepShell "Add a docstring to this function"
   ```
 
-- **Command Mode:** Without selection, it will generate the code from the user prompt.
+- **Generate Mode:** Without selection, it will generate the code from the user prompt.
     ```vim
   :DeepShell "Generate a Python function for validating user input"
   ```
