@@ -1,7 +1,6 @@
 # DeepShell.nvim
 
-A Neovim plugin that integrates with [DeepShell](https://github.com/Abyss-c0re/deepshell), allowing users to process code snippets and commands via DeepShell directly from Neovim.
-
+The DeepShell.nvim plugin serves as the unseen bridge between the arcane depths of Neovim and the profound intelligence of [DeepShell](https://github.com/Abyss-c0re/deepshell).
 ## Installation
 
 ### Prerequisites
