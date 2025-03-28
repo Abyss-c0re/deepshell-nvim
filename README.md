@@ -67,7 +67,7 @@ Sends user input (and optionally selected code) to DeepShell in `DEFAULT_MODE` a
 ### Check if DeepShell is Installed
 Run this in your terminal:
 ```sh
-deepShell --help
+deepshell --help
 ```
 If the command is not found, make sure DeepShell is installed and its binary is in your `PATH`.
 
